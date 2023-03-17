@@ -1,3 +1,13 @@
+# The-Blacklist-of-Chinese-Law-Firm
+
+With the continuous development of China's legal industry, competition has become increasingly fierce. In order to obtain more profits, law firms often tend to hire newly graduated college students as cheap labor. This phenomenon has become a serious problem in the Chinese legal industry. These interns are often required to work long hours and overtime, but their wages are very low, creating a very serious buyer's market.
+
+In addition to the issue of low wages, intern lawyers often encounter dissatisfaction from law firms and mentoring lawyers. They are often treated as cheap labor without receiving reasonable training and guidance, only being assigned trivial tasks. This results in intern lawyers being unable to gain effective practice and improvement which negatively affects their future career development. 
+
+Furthermore, some partners in law firms have a serious disregard for the law with a lack of effective supervision and evaluation mechanisms which also makes information within the industry very closed off. These problems not only harm the rights of intern lawyers but also have an adverse effect on the reputation of the entire legal profession. 
+
+To address these issues, our organization along with social forces initiated a movement called "China Law Firm Blacklist" aimed at exposing bad behavior by law firms and mentoring lawyers while calling on all sectors of society to strengthen regulation and evaluation of the legal profession. We hope that through such efforts we can promote healthy development in China's legal industry providing better career opportunities for interns while making positive contributions towards China's rule-of-law construction. We hope that intern lawyers will bravely speak out against bad behavior by law firms and mentoring lawyers while striving for better opportunities for themselves as well as promoting better prospects for future development within this field overall.
+
 # 中国律师事务所黑名单
 
 > 因为自己淋过雨，所以总想替别人撑把伞
